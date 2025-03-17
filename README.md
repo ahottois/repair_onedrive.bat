@@ -2,8 +2,6 @@
 
 Un script batch pour Windows 10/11 qui permet de diagnostiquer et réparer facilement les problèmes courants de OneDrive.
 
-![Bannière OneDrive](https://raw.githubusercontent.com/ahottois/onedrive-repair-tool/main/banner.png)
-
 ## 🔍 À quoi sert cet outil ?
 
 L'Utilitaire de Réparation OneDrive est un script Windows qui offre une solution tout-en-un pour résoudre les problèmes les plus fréquents rencontrés avec OneDrive. Que vous rencontriez des problèmes de synchronisation, des erreurs de démarrage ou des problèmes de performance, cet outil vous permet de diagnostiquer et de réparer OneDrive sans avoir besoin de connaissances techniques avancées.
